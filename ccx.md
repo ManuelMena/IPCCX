@@ -1,10 +1,4 @@
-<style>
-	table {
-	width = "50%";
-	}
-</style>
-
-<table>
+<table style="width:50%;">
 <thead><tr><th></th><th scope=col>vars</th><th scope=col>n</th><th scope=col>mean</th><th scope=col>sd</th><th scope=col>median</th><th scope=col>trimmed</th><th scope=col>mad</th><th scope=col>min</th><th scope=col>max</th><th scope=col>range</th><th scope=col>skew</th><th scope=col>kurtosis</th><th scope=col>se</th></tr></thead>
 <tbody>
 	<tr><th scope=row>PCRD3</th><td>1          </td><td>22         </td><td>181.036364 </td><td>90.379381  </td><td>151.255    </td><td>175.919444 </td><td>80.082639  </td><td>  43.71    </td><td>396.21     </td><td>352.50     </td><td> 0.57975356</td><td>-0.2871839 </td><td>19.2689487 </td></tr>
